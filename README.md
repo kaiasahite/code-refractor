@@ -8,6 +8,10 @@ When operating the web page, if you clcik one of the links in the nav bar, it wi
 
 Challenges: With this project i had an easy time when it came to placing the semantics and organizing, but ran in to problems with the pictures. I had no issues getting the photos to display locally but as you can see i was unsuccessful in getting them to display live. i searched the web for answers, all involving code a little complex for me, but in my search i hypothosise that it was an issue with getting my pictures uploaded to get hub? not discourage, actually excited to find out my issue!
 
+WEBSIRE:
+
+https://kaiasahite.github.io/homework1-coderefractor/
+
 Screenshots:
 ![Capture2](https://user-images.githubusercontent.com/70611424/94381477-c27f2780-00f6-11eb-8f38-ec229bc90f27.JPG)
 
